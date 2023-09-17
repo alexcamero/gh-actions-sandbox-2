@@ -1,2 +1,1 @@
-something: 123456789
-somethingElse: different-value
+{{ steps.get-values.outputs.new_values }}
