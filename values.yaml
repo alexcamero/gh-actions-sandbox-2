@@ -1,1 +1,2 @@
-{{ steps.get-values.outputs.new_values }}
+something: 123456789
+somethingElse: a-value
