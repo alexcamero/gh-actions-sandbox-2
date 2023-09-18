@@ -2,4 +2,5 @@ something: 123456789
 newThing: this-one-is-new
 andThis: 27345825462384582354858
 newOne: heyDev
-latestSha: d896bc0aa9b54e40a24885eb1ae1c02ef7ecb3d5
+anotherNewOne: heyDevAgain
+latestSha: 8f918baa70cffaf3ec0c8ffc60215ad06173ca5c
