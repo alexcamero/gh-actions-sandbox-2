@@ -1,7 +1,7 @@
 something: 123456789
-newThing: this-one-is-new
+newThing: this-one-is-not-new-any-more
 andThis: 27345825462384582354858
 newOne: heyDev
 anotherNewOne: heyDevAgainAgain
 yetAnother: "{{ github.sha }}" # should just be code, not a mistake, just a test
-latestSha: 68b4ef4e06b57ece139f2bf2be76a2fcfa23a308
+latestSha: 84e521dbfb01d9a1c181150582ea05a2f0a3d8a6
