@@ -4,4 +4,4 @@ andThis: 27345825462384582354858
 newOne: heyDev
 anotherNewOne: heyDevAgainAgain
 yetAnother: "{{ github.sha }}" # should just be code, not a mistake, just a test
-latestSha: 84e521dbfb01d9a1c181150582ea05a2f0a3d8a6
+latestSha: c9eaf954f57b5448411834b9cb4849be37725dd4
